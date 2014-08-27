@@ -8,6 +8,7 @@ TODO
 **Rework assets**
 - [ ] Remove unnecessary JS
 - [ ] Remove unnecessary CSS
+- [ ] Install gulp.js
 - [ ] Minify JS + CSS
 - [ ] Optimize images
 - [ ] Concat JS + CSS
