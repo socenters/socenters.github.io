@@ -546,13 +546,13 @@
         parallax bagkground
     ------------------------------------------*/
 
-        #home      { background-image: url(../images/example/home.jpg);    }
-        #parallax1 { background-image: url(../images/example/parallax/parallax1.jpg); }
-        #parallax2 { background-image: url(../images/example/parallax/parallax2.jpg); }
-        #parallax3 { background-image: url(../images/example/parallax/parallax3.jpg); }
-        #parallax4 { background-image: url(../images/example/parallax/parallax4.jpg); }
-        #parallax5 { background-image: url(../images/example/parallax/parallax5.jpg); }
-        #parallax6 { background-image: url(../images/example/parallax/parallax6.jpg); }
+        #home      { background-image: url(../images/socenters/home.jpg);    }
+        #parallax1 { background-image: url(../images/socenters/parallax/parallax1.jpg); }
+        #parallax2 { background-image: url(../images/socenters/parallax/parallax2.jpg); }
+        #parallax3 { background-image: url(../images/socenters/parallax/parallax3.jpg); }
+        #parallax4 { background-image: url(../images/socenters/parallax/parallax4.jpg); }
+        #parallax5 { background-image: url(../images/socenters/parallax/parallax5.jpg); }
+        #parallax6 { background-image: url(../images/socenters/parallax/parallax6.jpg); }
 
 
 
