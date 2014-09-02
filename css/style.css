@@ -546,7 +546,7 @@
         parallax bagkground
     ------------------------------------------*/
 
-        #home      { background-image: url(../images/socenters/home.jpg);    }
+        #home      { background-image: url(../images/socenters/home.png);    }
         #parallax1 { background-image: url(../images/socenters/parallax/parallax1.jpg); background-color: #444; }
         #parallax2 { background-image: url(../images/socenters/parallax/parallax2.jpg); }
         #parallax3 { background-image: url(../images/socenters/parallax/parallax3.jpg); }
