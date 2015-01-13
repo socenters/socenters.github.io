@@ -678,8 +678,8 @@
 /*  HOME PAGE                                                                        */
 /*===================================================================================*/
 
-    .logo-banner img {
-        max-width: 490px;
+    .logo-banner {
+        max-width: 100%;
     }
 
     .home-wrapper {
