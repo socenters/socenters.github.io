@@ -30,7 +30,6 @@
     }
 
 
-
 /*===================================================================================*/
 /*  MOBILE LANDSCAPE                                                                 */
 /*===================================================================================*/
@@ -48,14 +47,18 @@
             padding: 20px 0;
         }
 
+        .logo-banner img {
+            max-width: 100%;
+        }
+
         .home-wrapper .slider-text h1.secondary {
             font-size: 28px;
         }
 
         .home-btn {
-            /*width: 100px;
-            height: 100px;
-            line-height: 100px;*/
+            width: 200px;
+            height: 200px;
+            line-height: 190px;
             letter-spacing: 0;
 
         }

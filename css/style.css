@@ -678,8 +678,8 @@
 /*  HOME PAGE                                                                        */
 /*===================================================================================*/
 
-    .logo-banner {
-        max-width: 100%;
+    .logo-banner img {
+        max-width: 490px;
     }
 
     .home-wrapper {
@@ -721,7 +721,7 @@
 
         .home-wrapper .slider-text h1.secondary {
             background-color: rgba(0,0,0,.5);
-            font-size: 50px;
+            font-size: 30px;
         }
 
         .home-btn {
