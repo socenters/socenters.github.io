@@ -1209,11 +1209,15 @@
 /*  CLIENTS                                                                         */
 /*===================================================================================*/
 
+    .clients {
+        text-align: center;
+    }
+
     .clients a {
         width: 32.814%;
         height: 286px;
         line-height: 186px;
-        float: left;
+        /*float: left;*/
         padding: 43px;
         margin-right: 1px;
         margin-left: 1px;
