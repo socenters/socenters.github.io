@@ -1213,25 +1213,25 @@
         text-align: center;
     }
 
-    .clients a {
-        width: 32.814%;
-        height: 286px;
-        line-height: 186px;
-        /*float: left;*/
-        padding: 43px;
-        margin-right: 1px;
-        margin-left: 1px;
-        margin-bottom: 2px;
-        text-align: center;
-        display: inline-block;
-        background-color: #444;
-        background-color: rgba(0, 0, 0, 0.3);
-    }
-
-    .clients a:hover {
-        background-color: #333;
-        background-color: rgba(0, 0, 0, 0.4);
-    }
+        .clients a {
+            width: 32.814%;
+            height: 286px;
+            line-height: 186px;
+            /*float: left;*/
+            padding: 43px;
+            margin-right: 1px;
+            margin-left: 1px;
+            margin-bottom: 2px;
+            text-align: center;
+            display: inline-block;
+            background-color: #444;
+            background-color: rgba(0, 0, 0, 0.3);
+        }
+    
+        .clients a:hover {
+            background-color: #333;
+            background-color: rgba(0, 0, 0, 0.4);
+        }
 
 
 
