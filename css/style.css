@@ -547,6 +547,7 @@
     ------------------------------------------*/
 
         #home      { background-image: url(../images/socenters/home.png);    }
+        #bottom    { background-image: url(../images/delorean2.jpg);    }
         #parallax1 { background-image: url(../images/socenters/parallax/parallax1.jpg); background-color: #444; }
         #parallax2 { background-image: url(../images/socenters/parallax/parallax2.jpg); }
         #parallax3 { background-image: url(../images/socenters/parallax/parallax3.jpg); }
@@ -1227,7 +1228,7 @@
             background-color: #444;
             background-color: rgba(0, 0, 0, 0.3);
         }
-    
+
         .clients a:hover {
             background-color: #333;
             background-color: rgba(0, 0, 0, 0.4);
